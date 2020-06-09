@@ -16,3 +16,4 @@
 
 ## Installed Programms
 - [Git](https://git-scm.com/)
+- [GitHub Desktop](https://desktop.github.com/)
