@@ -18,7 +18,5 @@
 - [Git](https://git-scm.com/)
 - [GitHub Desktop](https://desktop.github.com/)
 
-## Video Curses
-- [youtube](https://www.youtube.com/watch?v=Rke_Z1-nvUM)
 
 
